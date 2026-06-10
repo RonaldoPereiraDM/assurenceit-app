@@ -1,3 +1,6 @@
 spring:
   application:
     name: assurenceit-app
+
+viacep:
+  base-url: https://viacep.com.br
