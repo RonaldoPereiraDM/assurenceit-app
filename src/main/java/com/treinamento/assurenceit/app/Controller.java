@@ -13,4 +13,5 @@ public class Controller {
     public ResponseEntity<?> getMessage(){
         return ResponseEntity.ok("UP!");
     }
+
 }
